@@ -1,4 +1,4 @@
-# World Monitor
+#EVOLUTION-MAP
 
 **Real-time global intelligence dashboard** — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface.
 
@@ -27,7 +27,7 @@
   <a href="https://github.com/koala73/worldmonitor/releases/latest"><strong>All Releases</strong></a>
 </p>
 
-![World Monitor Dashboard](new-world-monitor.png)
+![EVOLUTION-MAP Dashboard](new-world-monitor.png)
 
 ---
 
@@ -50,13 +50,6 @@
 ---
 
 ## Live Demos
-
-| Variant             | URL                                                          | Focus                                            |
-| ------------------- | ------------------------------------------------------------ | ------------------------------------------------ |
-| **World Monitor**   | [worldmonitor.app](https://worldmonitor.app)                 | Geopolitics, military, conflicts, infrastructure |
-| **Tech Monitor**    | [tech.worldmonitor.app](https://tech.worldmonitor.app)       | Startups, AI/ML, cloud, cybersecurity            |
-| **Finance Monitor** | [finance.worldmonitor.app](https://finance.worldmonitor.app) | Global markets, trading, central banks, Gulf FDI |
-| **Happy Monitor**   | [happy.worldmonitor.app](https://happy.worldmonitor.app)     | Good news, positive trends, uplifting stories    |
 
 All four variants run from a single codebase — switch between them with one click via the header bar.
 
